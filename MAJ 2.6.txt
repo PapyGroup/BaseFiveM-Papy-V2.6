@@ -1,0 +1,25 @@
+Lien de présentation : https://www.dailymotion.com/video/x7zb5wn
+
+**En plus des MAJ de la 2.4 et de la 2.5 (partiellement)**
+19 Février 2021 - V2.6
+```
+- Optimisation globale de la base
+- Refonte global du système de police
+- Configuration de tout les points police (4 comico + police academy)
+- Ajout de nouveau poste de police en ville (3 postes)
+- Ajout d une academie de Police (centre de formation police et sheriff)
+- Refonte du job boulangerie (ajout mapping ect ect)
+- Ajout du d une société de securite prive
+- Configuration + ajout de véhicule pour secu privé
+- Ajout du job Pompier avec 3 casernes de SP sur l ile
+- Configuration de tout les points pompiers (3 caserne)
+- Ajout d une clinique
+- Ajout du job Ferrailleur (Faite fondre de la taule ! )
+- Ajout d'une brigade cynophile (chien stup + arme)
+```
+
+Sort le 27 Février 2021 - V2.6.1
+```
+- Ajout d'un système complémentaire pour les pompiers
+- Ajout d'un mapping de labo de drogue
+```
